@@ -2,6 +2,5 @@
 
 You can reach me at lidia.gocheva@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glidia&theme=tokyonight)
 
 
